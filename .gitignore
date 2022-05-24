@@ -1,0 +1,4 @@
+*.apk
+/home/aministateur/Documents/GitHub/AIpy-Android/dist
+*.apk
+dist/AIpy.Android.apk

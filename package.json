@@ -17,11 +17,11 @@
     },
     "author": "",
     "license": "ISC",
-    "dependencies": {
-        "androidjs": "^2.0.2"
-    },
     "project-name": "AIpy.Android",
     "theme": {
         "fullScreen": true
+    },
+    "dependencies": {
+        "androidjs": "^2.0.4"
     }
 }
